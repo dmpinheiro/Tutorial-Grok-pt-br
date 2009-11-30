@@ -1,0 +1,26 @@
+\BOOKMARK [0][-]{chapter.1}{Bem vindo ao tutorial Grok!}{}
+\BOOKMARK [0][-]{chapter.2}{Iniciando com o Grok}{}
+\BOOKMARK [1][-]{section.2.1}{Definindo o grokproject}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Criando um projeto grok}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{Iniciando o servidor web}{chapter.2}
+\BOOKMARK [1][-]{section.2.4}{Um projeto Grok vazio}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Visualizando p\341ginas}{}
+\BOOKMARK [1][-]{section.3.1}{Publicando uma p\341gina simples}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Uma segunda vis\343o}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Tornando nossa p\341gina din\342mica}{chapter.3}
+\BOOKMARK [1][-]{section.3.4}{Recursos est\341ticos web para a nossa aplica\347\343o web}{chapter.3}
+\BOOKMARK [1][-]{section.3.5}{Usando m\351todos de um vis\343o}{chapter.3}
+\BOOKMARK [1][-]{section.3.6}{Gerando HTML a partir do Python}{chapter.3}
+\BOOKMARK [1][-]{section.3.7}{Visualiza\347\365es usando Python completamente}{chapter.3}
+\BOOKMARK [1][-]{section.3.8}{Fazendo c\341lculos antes da p\341gina ser visualizada}{chapter.3}
+\BOOKMARK [1][-]{section.3.9}{Lendo par\342metros URL}{chapter.3}
+\BOOKMARK [1][-]{section.3.10}{Formul\341rios Simples}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Modelos}{}
+\BOOKMARK [1][-]{section.4.1}{Uma vis\343o para um modelo}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Armazenando Dados}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Redirecionamento}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Mostrando o valor no formul\341rio}{chapter.4}
+\BOOKMARK [1][-]{section.4.5}{As regras de persist\352ncia}{chapter.4}
+\BOOKMARK [1][-]{section.4.6}{Explicitamente associando uma vis\343o a um modelo}{chapter.4}
+\BOOKMARK [1][-]{section.4.7}{Um segundo modelo}{chapter.4}
+\BOOKMARK [1][-]{section.4.8}{Containers}{chapter.4}
